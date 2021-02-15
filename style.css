@@ -1,0 +1,60 @@
+body{
+    background-image: url("Images/background.png");
+    background-size: 1280px 1900px;
+    font-size: 18px;
+}
+#name{
+    color: #007ea7ff
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    text-align: left;
+    margin-bottom: 0px;
+    margin-left: 60px;
+    font-weight: 400;
+    
+}
+
+#location{
+    color: skyblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    text-align: left;
+    text-decoration: snow;
+    margin-top: 0px;
+    margin-left: 60px;
+}
+h3{
+    color: rgba(0, 23, 31, 1);
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    text-decoration: royalblue;
+    text-align: center;
+    font-weight: 100;
+}
+
+.estilo-listas{
+    
+    color: #003459ff;
+    text-align: center;
+    line-height: 30px;
+}
+
+img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    border-radius: 50%;
+    
+}
+.hc{ font-size: 20px;}
+.gg{ font-size: 18px;}
+.js{ font-size: 16px;}
+.gp{ font-size: 14px;}
+.fg{ font-size: 12px;}
+
+#bloco-title {
+  
+}
+
